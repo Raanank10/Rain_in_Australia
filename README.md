@@ -1,4 +1,5 @@
 # Rain_in_Australia
+Classification project
 Predict next-day rain in Australia
 link: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
